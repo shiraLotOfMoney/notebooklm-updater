@@ -194,10 +194,7 @@ NotebookLM Source Auto-Updaterは、Google NotebookLMのソースを効率的に
 本拡張機能に関するご質問、不具合の報告、機能要望などは、以下までお問い合わせください。
 
 **連絡先:**
-[社内連絡先を記載してください]
-- メール: [メールアドレス]
-- Slack: [Slackチャンネル]
-- Teams: [Teamsチャンネル]
+- メール: shirahama.junya@moneyforward.co.jp
 
 ### フィードバック
 ご意見やご感想もお待ちしております。より良いツールにするため、皆様のフィードバックを活用させていただきます。

@@ -245,10 +245,10 @@ zip -r notebooklm-updater-v1.0.0.zip . \
 ## 貢献
 
 ### バグ報告
-[社内連絡先]
+shirahama.junya@moneyforward.co.jp
 
 ### 機能要望
-[社内連絡先]
+shirahama.junya@moneyforward.co.jp
 
 ### Pull Request
 1. フォークしてブランチを作成
@@ -259,12 +259,12 @@ zip -r notebooklm-updater-v1.0.0.zip . \
 ## サポート
 
 ### 開発者向けサポート
-- 技術的な質問: [連絡先]
-- コードレビュー依頼: [連絡先]
+- 技術的な質問: shirahama.junya@moneyforward.co.jp
+- コードレビュー依頼: shirahama.junya@moneyforward.co.jp
 
 ### ユーザー向けサポート
 - ユーザーガイドを参照: [USER_GUIDE.md](./USER_GUIDE.md)
-- 問い合わせ先: [連絡先]
+- 問い合わせ先: shirahama.junya@moneyforward.co.jp
 
 ## リンク
 

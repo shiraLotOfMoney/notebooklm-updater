@@ -296,7 +296,7 @@ https://chrome.google.com/webstore/detail/[ID]
 #### 7-3. サポート体制
 
 - Slackチャンネル: `#notebooklm-support` を作成
-- メール: `[support-email]` を設定
+- メール: `shirahama.junya@moneyforward.co.jp` を設定
 - FAQ: `USER_GUIDE.md` を社内Wikiに掲載
 
 ---
@@ -362,11 +362,11 @@ sips -z 800 1280 input.png --out output.png
 ## 📞 サポート
 
 ### 技術的な質問
-- 開発者: [連絡先]
+- 開発者: shirahama.junya@moneyforward.co.jp
 
 ### ユーザーサポート
 - Slack: `#notebooklm-support`
-- メール: [サポートメール]
+- メール: shirahama.junya@moneyforward.co.jp
 
 ---
 

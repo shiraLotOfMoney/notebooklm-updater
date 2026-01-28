@@ -220,7 +220,7 @@ NotebookLMのソースを効率的に更新するChrome拡張機能です。
 社内専用ツールです。
 
 【サポート】
-お問い合わせ: [社内連絡先]
+お問い合わせ: shirahama.junya@moneyforward.co.jp
 ```
 
 **カテゴリ:**
@@ -401,7 +401,7 @@ NotebookLMのソースを効率的に更新できるChrome拡張機能をリリ�
 ユーザーガイド: https://[link-to-user-guide]
 
 ■ お問い合わせ
-[連絡先]
+shirahama.junya@moneyforward.co.jp
 
 よろしくお願いいたします。
 ```

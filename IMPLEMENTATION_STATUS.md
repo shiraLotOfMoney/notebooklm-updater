@@ -346,10 +346,10 @@ ls -lh notebooklm-updater-v1.0.0.zip
 ## 連絡先
 
 ### 開発担当
-[開発者の連絡先を記載]
+shirahama.junya@moneyforward.co.jp
 
 ### サポート
-[サポート窓口の連絡先を記載]
+shirahama.junya@moneyforward.co.jp
 
 ---
 

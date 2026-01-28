@@ -48,7 +48,7 @@ NotebookLM Source Auto-Updater（以下「本拡張機能」）は、NotebookLM�
 ## お問い合わせ
 本プライバシーポリシーに関するご質問やご懸念がある場合は、以下までお問い合わせください。
 
-[社内連絡先を記載]
+メール: shirahama.junya@moneyforward.co.jp
 
 ## 準拠法
 本プライバシーポリシーは、日本国の法律に準拠します。

@@ -50,7 +50,7 @@ NotebookLMのソースを効率的に更新するChrome拡張機能です。
 すべての処理はブラウザ内で完結します。
 
 【サポート】
-お問い合わせ: [社内連絡先]
+お問い合わせ: shirahama.junya@moneyforward.co.jp
 ```
 
 ### 英語版（オプション）
@@ -77,7 +77,7 @@ This extension does not collect or transmit any user data.
 All processing is done within the browser.
 
 【Support】
-Contact: [Internal contact information]
+Contact: shirahama.junya@moneyforward.co.jp
 ```
 
 ## ストア掲載設定
