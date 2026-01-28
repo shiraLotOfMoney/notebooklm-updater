@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Claude Code
+.claude/
+
+# Distribution files
+*.zip
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node modules (if any)
+node_modules/
+
+# Screenshots (actual files, keep README)
+screenshots/*.png
+screenshots/*.jpg
+screenshots/*.jpeg
+!screenshots/README.md

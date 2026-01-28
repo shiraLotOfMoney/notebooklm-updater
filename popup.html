@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NotebookLM Auto-Updater</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>NotebookLM Source Updater</h1>
+
+    <!-- モード切り替えトグル -->
+    <div class="mode-selector">
+      <span class="mode-label">全ソース</span>
+      <label class="toggle-switch">
+        <input type="checkbox" id="modeToggle">
+        <span class="toggle-slider"></span>
+      </label>
+      <span class="mode-label">指定ソース</span>
+    </div>
+
+    <!-- フィルタ入力（部分更新モード時のみ表示） -->
+    <div id="filterContainer" class="filter-container" style="display: none;">
+      <label for="filterInput">ソース名フィルタ:</label>
+      <input
+        type="text"
+        id="filterInput"
+        placeholder="例: report, data, 2024"
+        class="filter-input"
+      >
+      <small class="help-text">
+        カンマまたはスペース区切りで複数指定可能（OR条件）
+      </small>
+    </div>
+
+    <!-- 検索ボタン（指定ソースモード時のみ表示） -->
+    <button id="searchBtn" class="btn btn-secondary" style="display: none;">検索</button>
+
+    <!-- 検索結果表示エリア -->
+    <div id="searchResults" class="search-results" style="display: none;">
+      <div id="searchResultsText"></div>
+      <div id="searchResultsList" class="source-list"></div>
+    </div>
+
+    <div class="button-group">
+      <button id="autoUpdateBtn" class="btn btn-primary">
+        <span id="btnLabel">全ソースを自動更新</span>
+      </button>
+      <button id="stopBtn" class="btn btn-stop" style="display: none;">
+        停止
+      </button>
+    </div>
+
+    <div id="progress" class="progress"></div>
+    <div id="status" class="status"></div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

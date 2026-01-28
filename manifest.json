@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "NotebookLM Source Auto-Updater",
+  "version": "1.0.0",
+  "description": "NotebookLMのソースを全選択し、更新ボタンを自動クリックする拡張機能",
+  "icons": {
+    "16": "icons/icon-16.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://notebooklm.google.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://notebooklm.google.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
